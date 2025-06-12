@@ -1,4 +1,4 @@
-25239325528240019
+25244574419812325
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101296,6 +101296,27 @@ SN65HVD232QDRG4Q1
 0
 8
 8
+footprints
+LQFP-32_STM
+
+STM32C092KBT6 
+0
+32
+32
+footprints
+LQFP-32_STM-L
+
+STM32C092KBT6 
+0
+32
+32
+footprints
+LQFP-32_STM-M
+
+STM32C092KBT6 
+0
+32
+32
 footprints
 SOIC8_SA_SST_MCH
 
