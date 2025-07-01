@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J6,J5";"JST_XH_S5B-XH-A-1_1x05_P2.50mm_Horizontal";2;"Conn_01x05";;;
+2;"C4,C1,C3";"C_0603_1608Metric";3;"100n";;;
+3;"R7,R1,R8,R2,R6";"R_0603_1608Metric";5;"1k";;;
+4;"Q2,Q1,Q3";"SOT-23";3;"AO3400A";;;
+5;"R3,R5,R4";"R_0603_1608Metric";3;"33m";;;
+6;"J7,J8,J4";"PinHeader_1x03_P2.54mm_Vertical";3;"Conn_01x03_Pin";;;
+7;"J2,J3";"TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal";2;"Screw_Terminal_01x02";;;
+8;"D3,D1,D4,D5,D2";"LED_0603_1608Metric";5;"LED";;;
+9;"C2,C8,C7,C6,C5";"C_0603_1608Metric";5;"10u";;;
+10;"U2";"D8";1;"SN65HVD232QDRG4Q1";;;
+11;"U1";"TSSOP20_STM";1;"STM32C092FCP6";;;
