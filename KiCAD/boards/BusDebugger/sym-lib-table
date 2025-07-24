@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-06-11_04-28-26")(type "KiCad")(uri "/home/rous/Papyrus-MITRT/KiCAD/symbols/2025-06-11_04-28-26.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-06-11_00-53-44")(type "KiCad")(uri "/home/rous/Papyrus-MITRT/KiCAD/symbols/2025-06-11_00-53-44.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-06-11_00-45-23")(type "KiCad")(uri "/home/rous/Papyrus-MITRT/KiCAD/symbols/2025-06-11_00-45-23.kicad_sym")(options "")(descr ""))
+  (lib (name "2025-06-11_00-44-39")(type "KiCad")(uri "/home/rous/Papyrus-MITRT/KiCAD/symbols/2025-06-11_00-44-39.kicad_sym")(options "")(descr ""))
+)
